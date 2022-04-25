@@ -21,7 +21,7 @@ var coins;
 var coin;
 
 
-const coinsCount = 10 
+const coinsCount = 11
 
 var score = 0;
 
